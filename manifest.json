@@ -3,7 +3,12 @@
   "name": "mayo-man",
   "version": "0.1",
   "web_accessible_resources": [
-    "mayo.png"
+    "mayo1.png",
+    "mayo2.png",
+    "mayo3.png",
+    "mayo4.png",
+    "mayo5.png",
+    "mayo6.png"
   ],
   "permissions": [
     "webRequest",
